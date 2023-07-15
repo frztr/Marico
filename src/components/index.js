@@ -1,0 +1,11 @@
+import Header from "./Header";
+import MainBlock from "./MainBlock";
+import Creators from "./Creators";
+import StepTitleComponent from "./StepTitleComponent";
+import DemoComponent from "./DemoComponent";
+import BannerBlock from "./BannerBlock";
+import ExpertAgree from "./ExpertAgree";
+import WeHelpedBanner from "./WeHelpedBanner";
+import GetStartNow from "./GetStartNow";
+import Footer from "./Footer";
+export default {Header, MainBlock, Creators,StepTitleComponent,DemoComponent, BannerBlock, ExpertAgree, WeHelpedBanner,GetStartNow,Footer};
